@@ -1,0 +1,87 @@
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\appsettings.json
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\IST_P2_EFiskalizacija.exe
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\IST_P2_EFiskalizacija.deps.json
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\IST_P2_EFiskalizacija.runtimeconfig.json
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\IST_P2_EFiskalizacija.runtimeconfig.dev.json
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\IST_P2_EFiskalizacija.dll
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\ref\IST_P2_EFiskalizacija.dll
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\IST_P2_EFiskalizacija.pdb
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.csproj.AssemblyReference.cache
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.AssemblyInfoInputs.cache
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.AssemblyInfo.cs
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.csproj.CoreCompileInputs.cache
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\staticwebassets\IST_P2_EFiskalizacija.StaticWebAssets.Manifest.cache
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\staticwebassets\IST_P2_EFiskalizacija.StaticWebAssets.xml
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\scopedcss\bundle\IST_P2_EFiskalizacija.styles.css
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.RazorTargetAssemblyInfo.cache
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.csproj.CopyComplete
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.dll
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\ref\IST_P2_EFiskalizacija.dll
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.pdb
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.genruntimeconfig.cache
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\appsettings.Development.json
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\appsettings.json
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\IST_P2_EFiskalizacija.exe
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\IST_P2_EFiskalizacija.deps.json
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\IST_P2_EFiskalizacija.runtimeconfig.json
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\IST_P2_EFiskalizacija.runtimeconfig.dev.json
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\IST_P2_EFiskalizacija.dll
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\ref\IST_P2_EFiskalizacija.dll
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\IST_P2_EFiskalizacija.pdb
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.csproj.AssemblyReference.cache
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.AssemblyInfoInputs.cache
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.AssemblyInfo.cs
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.csproj.CoreCompileInputs.cache
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.MvcApplicationPartsAssemblyInfo.cs
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.MvcApplicationPartsAssemblyInfo.cache
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\staticwebassets\IST_P2_EFiskalizacija.StaticWebAssets.Manifest.cache
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\staticwebassets\IST_P2_EFiskalizacija.StaticWebAssets.xml
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\scopedcss\bundle\IST_P2_EFiskalizacija.styles.css
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.RazorTargetAssemblyInfo.cache
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.csproj.CopyComplete
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.dll
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\ref\IST_P2_EFiskalizacija.dll
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.pdb
+D:\Sa stuff\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.genruntimeconfig.cache
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\appsettings.json
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\IST_P2_EFiskalizacija.exe
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\IST_P2_EFiskalizacija.deps.json
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\IST_P2_EFiskalizacija.runtimeconfig.json
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\IST_P2_EFiskalizacija.runtimeconfig.dev.json
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\IST_P2_EFiskalizacija.dll
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\ref\IST_P2_EFiskalizacija.dll
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\IST_P2_EFiskalizacija.pdb
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.csproj.AssemblyReference.cache
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.AssemblyInfoInputs.cache
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.AssemblyInfo.cs
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.csproj.CoreCompileInputs.cache
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\staticwebassets\IST_P2_EFiskalizacija.StaticWebAssets.Manifest.cache
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\staticwebassets\IST_P2_EFiskalizacija.StaticWebAssets.xml
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\scopedcss\bundle\IST_P2_EFiskalizacija.styles.css
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.RazorTargetAssemblyInfo.cache
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.csproj.CopyComplete
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.dll
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\ref\IST_P2_EFiskalizacija.dll
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.pdb
+C:\Users\jovan\source\repos\IST_P2_EFiskalizacija\IST_P2_EFiskalizacija\obj\Debug\net5.0\IST_P2_EFiskalizacija.genruntimeconfig.cache
